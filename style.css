@@ -1,0 +1,24 @@
+body{
+  font-family: 'Poppins', sans-serif;
+  padding: 8%;
+  /* background-color: black;
+  color: #FFF; */
+}
+
+.photo-profile:hover{
+  content: url('./assets/javaScript.jpg');
+  opacity: 0.7;
+}
+
+section {
+  scroll-margin-top: 10%; /* Ajusta o espaço superior */
+}
+
+#contatos {
+  scroll-margin-top: 10%;
+}
+
+.border-solid-container{
+  border: solid;
+  border-radius: 5%;
+}
